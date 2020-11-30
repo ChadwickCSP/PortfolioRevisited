@@ -24,7 +24,7 @@ a Projects Gallery.
 
 Sign up for the project repository here:
 TODO
-[]()
+[https://classroom.github.com/a/Nd5l5pVc](https://classroom.github.com/a/Nd5l5pVc)
 
 After your repository has initialized it, clone it to your computer. I recommend
 putting it in your `ap-csp` directory.
