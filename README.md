@@ -2,8 +2,9 @@
 
 ## Overview
 
-In this project, you will revisit your portfolio project and enhance it using a template of your choice. Additionally, you will begin to learn how to use JavaScript to control the elements on an HTML page to create
-a Projects Gallery.
+In this project, you will revisit your portfolio project and enhance it using a
+template of your choice. Additionally, you will begin to learn how to use
+JavaScript to control the elements on an HTML page to create a Projects Gallery.
 
 * [Setup your repository](#setup-your-repository)
   * [Sign up for the project](#sign-up-for-project)
@@ -22,8 +23,7 @@ a Projects Gallery.
 
 ### Sign up for Project
 
-Sign up for the project repository here:
-TODO
+Sign up for the project repository here: TODO
 [https://classroom.github.com/a/Nd5l5pVc](https://classroom.github.com/a/Nd5l5pVc)
 
 After your repository has initialized it, clone it to your computer. I recommend
@@ -108,17 +108,20 @@ determine when your work was submitted.
 Due: Thursday Dec 10th @ 8 AM
 
 Next, update the projects section of your portfolio to be an interactive
-gallery. Like the one in this [VIDEO](#)
+gallery. The gallery must include an image for each of your projects (Bash Quest
+and Beach Resort) that when you click on them, opens a Modal window with
+additional information about the project.
 
 #### JavaScript Basics
 
 To help you get started, here are several videos that will guide you through
-connecting JavaScript to your pages as well as how to control your HTML content
-through JavaScript
+connecting JavaScript to your pages with a very basic image gallery. The base
+files for the gallery are available in the `gallery_demo` directory within this
+repository.
 
-1. [Adding JavaScript to an HTML Page](#)
-2. [The onload Event](#)
-3. [The onclick Event](#)
+1. [Creating a CSS Modal](https://drive.google.com/file/d/1Hp3bzUJsjXShd9MmF3D_JmJF4ugAN1oQ/view?usp=sharing)
+2. [Opening the Modal](https://drive.google.com/file/d/11suwExdLL80InvAidYKdTt6lsVZPTALA/view?usp=sharing)
+3. [Click to Open the Modal](https://drive.google.com/file/d/1wCK3hsvKFCGfZvQqX20xRjah9pOot5fJ/view?usp=sharing)
 
 All code that you would like to count toward your evaluation should be part of a
 `tag` on in your repository called `milestone-2`. This can be created by running
@@ -130,7 +133,10 @@ determine when your work was submitted.
 
 Due: Monday Dec 14th @ 8 AM
 
-Propose and implements a feature on your portfolio that utilizes JavaScript. You
+Propose and implements a feature on your portfolio that utilizes JavaScript.
+This feature will require you to spend time finding examples online of the
+feature you would like to implement, disect it and use it for your own. This is
+a common practice not only in web development but in programming as general. You
 should propose your idea on Piazza so others might get an idea of their own.
 
 Example Ideas:
@@ -150,14 +156,11 @@ determine when your work was submitted.
 
 ### Computational Thinking
 
-In this assignment, you will demonstrate your understanding of basic HTML tags
-and how they interact with CSS to create a rich user experience.
-
-| Advanced                                                                      | Proficient                                                         | Basic                                                           | Below Basic                                                                 |
-|-------------------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Completes all 7 pages                                                         | Completes at least 5 pages                                         | Student successfully completes the index.html page              | Student does not create an index.html page that matches the reference image |
-| Adds hover to all sections noted in [Mouse Over CSS](#mouse-over-css) section | Completes a functional Top Navigation Bar that works on all pages  | Student creates a css file that connects to the index.html page | Little or no CSS Styling                                                    |
-| Adds Social Media Links to the bottom navigation bar                          | Completes a function Bottom Navigation Bar that works on all pages |                                                                 |                                                                             |
+| Advanced                                               | Proficient                                                   | Basic                                                  | Below Basic                                          |
+|--------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|
+| Proposes and Implements a feature utilizing JavaScript | Transfers content from their portfolio to their new template | Selects a unique template and adds it to their project | Student does not add a new template to their project |
+|                                                        | Implements a basic Project Gallery                           |                                                        |                                                      |
+|                                                        |                                                              |                                                        |                                                      |
 
 ### Computing, Programming, and Practice
 
